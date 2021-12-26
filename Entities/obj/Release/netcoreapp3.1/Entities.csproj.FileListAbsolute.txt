@@ -1,0 +1,9 @@
+D:\Projelerim\CoreProject\ObtsCore\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+D:\Projelerim\CoreProject\ObtsCore\Entities\bin\Release\netcoreapp3.1\Entities.dll
+D:\Projelerim\CoreProject\ObtsCore\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+D:\Projelerim\CoreProject\ObtsCore\Entities\obj\Release\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\Projelerim\CoreProject\ObtsCore\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Projelerim\CoreProject\ObtsCore\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\Entities\obj\Release\netcoreapp3.1\Entities.dll
+D:\Projelerim\CoreProject\ObtsCore\Entities\obj\Release\netcoreapp3.1\Entities.pdb

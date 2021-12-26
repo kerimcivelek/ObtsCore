@@ -1,0 +1,16 @@
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Business.deps.json
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Business.dll
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Business.pdb
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Core.dll
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\DataAccess.dll
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Entities.dll
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\DataAccess.pdb
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Entities.pdb
+D:\Projelerim\CoreProject\ObtsCore\Business\bin\Release\netcoreapp3.1\Core.pdb
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.dll
+D:\Projelerim\CoreProject\ObtsCore\Business\obj\Release\netcoreapp3.1\Business.pdb

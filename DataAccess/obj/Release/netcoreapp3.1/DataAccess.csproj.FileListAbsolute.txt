@@ -1,0 +1,17 @@
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\Core.dll
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\Entities.dll
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\Core.pdb
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\bin\Release\netcoreapp3.1\Entities.pdb
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+D:\Projelerim\CoreProject\ObtsCore\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache

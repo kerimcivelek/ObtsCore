@@ -1,0 +1,12 @@
+D:\Projelerim\CoreProject\ObtsCore\Core\bin\Release\netcoreapp3.1\Core.deps.json
+D:\Projelerim\CoreProject\ObtsCore\Core\bin\Release\netcoreapp3.1\Core.dll
+D:\Projelerim\CoreProject\ObtsCore\Core\bin\Release\netcoreapp3.1\Core.pdb
+D:\Projelerim\CoreProject\ObtsCore\Core\bin\Release\netcoreapp3.1\Entities.dll
+D:\Projelerim\CoreProject\ObtsCore\Core\bin\Release\netcoreapp3.1\Entities.pdb
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.csprojAssemblyReference.cache
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.csproj.CopyComplete
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.dll
+D:\Projelerim\CoreProject\ObtsCore\Core\obj\Release\netcoreapp3.1\Core.pdb
